@@ -7,3 +7,6 @@ Before running the project, you need to set up the `.env` file with the necessar
 
    ```env
    JWT_SECRET=your_secret_key
+   #LINKEDIN 
+   EMAIL
+   PASSWORD
